@@ -1,0 +1,20 @@
+h1 {
+    padding: 20px;
+      display: inline-block;
+      
+  }
+  #pila {
+      background-color: rgba(255, 0, 0, 0.5);
+      height: 100px;
+      width: auto;
+  }
+  #pala {
+      background-color: aquamarine;
+      height: 500px;
+      width: auto;
+  }
+  img {
+    height: 450px;
+      width: 350px;
+      position: relative;
+  }

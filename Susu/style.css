@@ -1,0 +1,141 @@
+ /* comment out for id selector */
+
+ #AB{
+    background-color:lightblue;
+    text-align:center;
+    position: relative;
+    color:rgb(24, 25, 26);
+    font-family: serif;
+    font-size: 20px;
+    
+    
+}
+#ggg {
+    background-color: lightblue;
+    
+}
+ #XY {
+    background-color:lightblue;
+    color: blue;}
+
+    #EF{
+        background-image: url(https://cdnb.artstation.com/p/assets/images/images/027/092/051/original/chan-kai-hong-process-gif.gif?1590574040);
+        height: 150px;
+        width: 100%;
+  
+  
+    }
+    
+    
+
+
+
+
+ ul {
+ list-style: none;
+ display: flex;
+ justify-content: space-between;
+ padding-left: 50px;
+ font-size: 30px;
+ color: brown;
+ text-shadow: 2px 2px #ff0000;
+ }
+
+ 
+ li {
+    padding-right: 50px;
+ }
+ 
+ 
+ 
+
+
+
+ /* class selector */
+.CD{
+    background-color: cadetblue;
+    text-align:center;
+    position: relative;
+    color:rgb(8, 8, 8);
+    text-shadow: 2px 2px #ff0000; 
+} 
+.dropbtn {
+    background-color: #76a5c9;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:lightblue;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #ccdfcded;
+  }
+h1{
+    text-align: center;
+    color:rgba(10, 1, 1, 0.717);
+    font-size: 50px;
+}
+table, th, td{
+    border: 2px solid black;
+    border-color: rgb(12, 12, 12);
+    padding: 10px;
+    
+}
+h2{
+    text-shadow: 2px 2px #ff0000;  
+}
+h6 {
+    font-size: 25px;
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+}
+a:hover {
+    color:blue ;
+}
+h1:hover{
+    color: blue;
+}
+h6{
+    text-align: center;
+    font-size: 35px;
+    color: darkslategray;
+    
+
+}
+img:hover {
+    opacity: 0.5;
+}
+
+
+
+
